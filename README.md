@@ -48,6 +48,3 @@ The final image shows the results of adjusting permissions across several files 
 ![4-Using Linux Commands to Manage File Permissions-5](https://github.com/user-attachments/assets/3cfe6106-b43e-4e11-ab11-b77ae0643147)
 
 
-## Summary
-Throughout this project, I used Linux commands to assess and manage file and directory permissions, ensuring compliance with security standards. By carefully analyzing and adjusting these permissions, I safeguarded sensitive data from unauthorized access, effectively securing the Linux environment using best practices. This hands-on experience deepened my understanding of file security in Linux systems.
-
